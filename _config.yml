@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Yunmo Koo # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Inspired learner # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,8 +28,8 @@ url: "https://yunmokoo.github.io"
 github:
   username: yunmokoo # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
